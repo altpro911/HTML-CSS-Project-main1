@@ -1,0 +1,51 @@
+table, th, td {
+  border:1px solid green
+   
+}
+tr{
+ text-align: center;
+}
+
+.dot {
+  box-align :center;
+  height: 10px;
+  width: 10px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-grid;
+  
+}
+
+.f{
+ text-align: center;
+}
+table {
+  width: 100%;
+}
+
+body {
+  background-image: url('background-image.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+button {
+  background-color: #000;
+  border: .5px solid crimson;
+  border-radius: 10px;
+  color: #fff;
+  padding: 8px;
+  box-shadow: 0 0 30px 0 crimson,
+              0 0 30px 0 crimson,
+              0 0 10px 0 crimson inset;
+}
+
+.a {
+  text-decoration: none;
+  border: 0.2px solid #000;
+  color: #000;
+  background: #e6e4e4;
+  padding: 5px;
+  border-radius: 1px;
+}
